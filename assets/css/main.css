@@ -1174,10 +1174,12 @@ input, select, textarea {
 
 		body.is-preload #bg:before {
 			background-color: black;
-			background-image: url("../../images/9329-loading.gif");
-			background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+			background-image: url("../../images/animation_500_ktnb8q3y.gif");
+			background-size: 200px 200px;
+
+			/* background-position: center; */
+  /* background-repeat: no-repeat; */
+  /* background-size: cover; */
 		}
 
 /* Wrapper */
