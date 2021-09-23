@@ -1174,8 +1174,8 @@ input, select, textarea {
 
 		body.is-preload #bg:before {
 			background-color: black;
-			background-image: url("../../images/animation_500_ktwqo5q1.gif");
-			background-size: 400px 400px;
+			background-image: url("../../images/splash.gif");
+			background-size: 500px 500px;
 
 			/* background-position: center; */
   /* background-repeat: no-repeat; */
